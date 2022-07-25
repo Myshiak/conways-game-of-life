@@ -5,4 +5,6 @@ C implementation of the Cellular automaton running in a terminal for Windows and
 # Run
 ### Windows: `life.exe`
 ### Unix: `./life`
-<h3 style="color: yellow">Warning! The program can work incorrectly on Windows, because it was designed for Unix-like systems</h3>
+#### Warning! The program can work incorrectly on Windows, because it was designed for Unix-like systems
+# You can configure the game, but there is a rule for the size
+- The square root can be extracted from the size variable

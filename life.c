@@ -53,7 +53,9 @@ int main() {
 			}
 		}
 	}
-	if (!randomly) {}
+	if (!randomly) {
+		// custom generation
+	}
 	while (true) {
 		for(int y=0;y<sizey;y++) {
 			for(int x=0;x<sizex;x++) {
